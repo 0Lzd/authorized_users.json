@@ -1,1 +1,1 @@
-# authorized_users.json
+# authorized users
